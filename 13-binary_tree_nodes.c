@@ -7,6 +7,7 @@
  *
  * Return: the number of non leaf nodes
  */
+
 size_t binary_tree_nodes(const binary_tree_t *tree)
 {
 	size_t l, r;
